@@ -1,0 +1,186 @@
+{
+  "client": "The Sweetgrass School",
+  "preparedBy": "Blue Nova Marketing",
+  "status": "Client review — not live",
+  "lastUpdated": "October 9, 2026",
+  "destination": "https://thesweetgrassschool.com/registration-enrollment/",
+  "campaignName": "Sweetgrass | Enrollment | Facebook | Oct 2026",
+  "objective": "Traffic — maximize landing-page views",
+  "audience": "Adults ages 24–54, all genders, living within 8 miles of 930 Pine Hollow Rd., Mount Pleasant",
+  "programAges": "Children ages 6 weeks–5 years",
+  "placements": "Facebook Feed, Stories, and Reels",
+  "schedule": "October 12–26, 2026 · starts 10:00 a.m. Eastern",
+  "budget": "$300 lifetime budget and $300 campaign spending limit",
+  "ads": [
+    {
+      "title": "1 — Block Building / Direct Enrollment",
+      "adName": "A1_Block_Building_Now_Enrolling",
+      "type": "image",
+      "feedMedia": "sweetgrass-happy-block-building-feed-1080x1350.png",
+      "verticalMedia": "sweetgrass-happy-block-building-story-1080x1920.png",
+      "feedCover": "",
+      "verticalCover": "",
+      "primary": [
+        "Now enrolling ages 6 weeks–5 years in Mount Pleasant. Explore The Sweetgrass School and schedule a tour today.",
+        "Looking for childcare in Mount Pleasant? The Sweetgrass School is now enrolling children ages 6 weeks through 5 years. Discover a caring place where purposeful play, age-appropriate learning, and growing confidence come together. Schedule a tour today.",
+        "Purposeful play, caring guidance, and age-appropriate learning come together at The Sweetgrass School. We serve children ages 6 weeks–5 years in Mount Pleasant and the surrounding communities. Learn more and schedule a tour.",
+        "Searching for care for a child ages 6 weeks–5 years? See how The Sweetgrass School turns everyday play into opportunities to explore, connect, and grow. Schedule a tour in Mount Pleasant.",
+        "Building skills starts with time to play, discover, and try something new. The Sweetgrass School is now enrolling children ages 6 weeks–5 years. Tour our Mount Pleasant school and learn more."
+      ],
+      "headlines": [
+        "Now Enrolling Ages 6 Weeks–5 Years",
+        "Schedule a Sweetgrass Tour",
+        "Childcare in Mount Pleasant",
+        "Purposeful Play Starts Here",
+        "Explore The Sweetgrass School"
+      ],
+      "descriptions": [
+        "Schedule a tour in Mount Pleasant.",
+        "Caring programs for ages 6 weeks–5 years.",
+        "Play, learn, connect, and grow.",
+        "Serving Mount Pleasant and nearby communities.",
+        "See what a Sweetgrass day can offer."
+      ],
+      "accessibility": "Four smiling children build a colorful tower with wooden blocks in a bright early-learning classroom.",
+      "cta": "LEARN_MORE",
+      "utm": "utm_source=facebook&utm_medium=paid_social&utm_campaign=sweetgrass_enrollment_oct2026&utm_content=block_building",
+      "hypothesis": "the direct enrollment message and happy group activity will capture parents already looking for care."
+    },
+    {
+      "title": "2 — Rainbow Painting / Creativity",
+      "adName": "A2_Rainbow_Painting_Creativity",
+      "type": "image",
+      "feedMedia": "sweetgrass-happy-rainbow-painting-feed-1080x1350.png",
+      "verticalMedia": "sweetgrass-happy-rainbow-painting-story-1080x1920.png",
+      "feedCover": "",
+      "verticalCover": "",
+      "primary": [
+        "Creativity starts with room to explore. Discover programs for ages 6 weeks–5 years at The Sweetgrass School in Mount Pleasant.",
+        "At The Sweetgrass School, children ages 6 weeks through 5 years learn through art, play, communication, and caring guidance. Families in Mount Pleasant and the surrounding communities can schedule a tour today.",
+        "Color, curiosity, conversation, and play all belong in a child’s day. Explore The Sweetgrass School’s age-appropriate programs for children ages 6 weeks–5 years.",
+        "Little hands can create big ideas. See how children ages 6 weeks–5 years learn, make, and grow at The Sweetgrass School. Schedule a tour in Mount Pleasant today.",
+        "Looking for a caring place where creativity is part of learning? The Sweetgrass School serves children ages 6 weeks–5 years in Mount Pleasant and the surrounding communities. Learn more today."
+      ],
+      "headlines": [
+        "Creativity Starts at Sweetgrass",
+        "Room to Create and Grow",
+        "Learning Through Art and Play",
+        "Tour The Sweetgrass School",
+        "Now Enrolling Ages 6 Weeks–5 Years"
+      ],
+      "descriptions": [
+        "A caring place to create, learn, and grow.",
+        "Explore age-appropriate programs.",
+        "Schedule a Mount Pleasant tour.",
+        "Art, play, communication, and connection.",
+        "Serving local families with caring guidance."
+      ],
+      "accessibility": "Four children finger-paint a large rainbow together in a bright classroom.",
+      "cta": "LEARN_MORE",
+      "utm": "utm_source=facebook&utm_medium=paid_social&utm_campaign=sweetgrass_enrollment_oct2026&utm_content=rainbow_painting",
+      "hypothesis": "bright collaborative art will stop the scroll and appeal to parents focused on creativity and social development."
+    },
+    {
+      "title": "3 — Playroom Video / Best Part of the Day",
+      "adName": "V1_Playroom_Best_Part_Of_The_Day",
+      "type": "video",
+      "feedMedia": "sweetgrass-video-a-playroom-centered-logo-v4-feed-1080x1350.mp4",
+      "verticalMedia": "sweetgrass-video-a-playroom-centered-logo-v4.mp4",
+      "feedCover": "sweetgrass-video-a-playroom-cover-1080x1350.png",
+      "verticalCover": "sweetgrass-video-a-playroom-cover-1080x1920.png",
+      "primary": [
+        "What if learning felt like the best part of the day? Explore The Sweetgrass School in Mount Pleasant.",
+        "The Sweetgrass School helps children ages 6 weeks through 5 years learn through play, creativity, movement, and caring guidance. Serving Mount Pleasant and the surrounding communities. Schedule a tour today.",
+        "Play, movement, creativity, and caring guidance can turn an ordinary day into a day full of discovery. Learn about Sweetgrass programs for children ages 6 weeks–5 years.",
+        "Looking for a bright, caring environment for your child? The Sweetgrass School serves families in Mount Pleasant and the surrounding communities. Watch, learn more, and schedule a tour.",
+        "A child’s day should feel active, welcoming, and full of chances to learn. Explore age-appropriate programs for ages 6 weeks–5 years at The Sweetgrass School."
+      ],
+      "headlines": [
+        "What If Learning Felt This Fun?",
+        "Make Learning the Best Part",
+        "Play, Create, Move, and Grow",
+        "Schedule a Sweetgrass Tour",
+        "Programs for Ages 6 Weeks–5 Years"
+      ],
+      "descriptions": [
+        "Programs for children ages 6 weeks–5 years.",
+        "Serving Mount Pleasant and surrounding communities.",
+        "Discover a day built around learning through play.",
+        "Caring guidance in a bright learning environment.",
+        "Watch the video, then schedule a tour."
+      ],
+      "accessibility": "A female presenter in a bright playroom describes Sweetgrass programs for children ages 6 weeks–5 years.",
+      "cta": "LEARN_MORE",
+      "utm": "utm_source=facebook&utm_medium=paid_social&utm_campaign=sweetgrass_enrollment_oct2026&utm_content=playroom_video",
+      "hypothesis": "the warm indoor learning environment and direct presenter delivery will communicate the childcare offer most clearly."
+    },
+    {
+      "title": "4 — Playground Video / Little Moments",
+      "adName": "V2_Playground_Little_Moments",
+      "type": "video",
+      "feedMedia": "sweetgrass-video-b-female-playground-centered-logo-v4-feed-1080x1350.mp4",
+      "verticalMedia": "sweetgrass-video-b-female-playground-centered-logo-v4.mp4",
+      "feedCover": "sweetgrass-video-b-female-playground-cover-1080x1350.png",
+      "verticalCover": "sweetgrass-video-b-female-playground-cover-1080x1920.png",
+      "primary": [
+        "Big discoveries start with little moments. Explore The Sweetgrass School in Mount Pleasant and schedule a tour.",
+        "Building, painting, talking, and making new friends can all become opportunities to learn. Discover age-appropriate programs for children ages 6 weeks–5 years at The Sweetgrass School.",
+        "Every conversation, creative project, and new friendship can help a child grow. The Sweetgrass School serves Mount Pleasant and the surrounding communities. Learn more today.",
+        "From outdoor play to creative discovery, meaningful learning happens all through the day. Explore Sweetgrass programs for children ages 6 weeks–5 years.",
+        "Looking for a place where little moments lead to big discoveries? Watch the video, explore The Sweetgrass School, and schedule a tour in Mount Pleasant."
+      ],
+      "headlines": [
+        "Big Discoveries Start Here",
+        "Little Moments, Meaningful Growth",
+        "A Day Full of Discovery",
+        "Explore Sweetgrass Programs",
+        "Schedule a Mount Pleasant Tour"
+      ],
+      "descriptions": [
+        "Serving Mount Pleasant and surrounding communities.",
+        "Programs for ages 6 weeks–5 years.",
+        "Building, creating, talking, and growing.",
+        "Discover learning through everyday moments.",
+        "See the video and plan your visit."
+      ],
+      "accessibility": "A female presenter at a colorful playground describes Sweetgrass programs and invites local families to schedule a tour.",
+      "cta": "LEARN_MORE",
+      "utm": "utm_source=facebook&utm_medium=paid_social&utm_campaign=sweetgrass_enrollment_oct2026&utm_content=playground_video",
+      "hypothesis": "the outdoor setting and activity-focused message will provide a materially different visual and emotional angle."
+    },
+    {
+      "title": "5 — Music and Movement",
+      "adName": "A3_Music_Movement_Learning_Is_Fun",
+      "type": "image",
+      "feedMedia": "sweetgrass-happy-music-movement-feed-1080x1350.png",
+      "verticalMedia": "sweetgrass-happy-music-movement-story-1080x1920.png",
+      "feedCover": "",
+      "verticalCover": "",
+      "primary": [
+        "Learning can be active, joyful, and full of discovery. Explore The Sweetgrass School in Mount Pleasant.",
+        "Music, movement, and play give children new ways to express themselves and connect. Discover caring, age-appropriate programs for ages 6 weeks–5 years at The Sweetgrass School.",
+        "Clap, move, listen, laugh, and learn. The Sweetgrass School serves children ages 6 weeks–5 years in Mount Pleasant and the surrounding communities. Schedule a tour today.",
+        "Childhood should have plenty of room for energy and imagination. Explore Sweetgrass programs where active play and caring guidance are part of the day.",
+        "Looking for a learning environment that feels lively and welcoming? See what The Sweetgrass School offers children ages 6 weeks–5 years and schedule a Mount Pleasant tour."
+      ],
+      "headlines": [
+        "Learning Should Feel This Fun",
+        "Move, Play, Learn, and Grow",
+        "Joyful Learning Starts Here",
+        "Explore The Sweetgrass School",
+        "Now Enrolling Ages 6 Weeks–5 Years"
+      ],
+      "descriptions": [
+        "Play, move, learn, and grow at Sweetgrass.",
+        "Caring programs for ages 6 weeks–5 years.",
+        "Music and movement make learning active.",
+        "Schedule a tour in Mount Pleasant.",
+        "Serving local families and nearby communities."
+      ],
+      "accessibility": "Five children smile, dance, and play musical instruments with colorful scarves in a classroom.",
+      "cta": "LEARN_MORE",
+      "utm": "utm_source=facebook&utm_medium=paid_social&utm_campaign=sweetgrass_enrollment_oct2026&utm_content=music_movement",
+      "hypothesis": "the high-energy movement scene will appeal to parents looking for an active, joyful learning environment and provides a different activity angle from the block and painting images."
+    }
+  ]
+}
