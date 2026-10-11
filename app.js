@@ -17,9 +17,9 @@ function mediaMarkup(ad, format = 'feed') {
   const file = isFeed ? ad.feedMedia : ad.verticalMedia;
   const cover = isFeed ? ad.feedCover : ad.verticalCover;
   if (ad.type === 'video') {
-    return `<video controls playsinline preload="metadata" poster="${esc(cover)}"><source src="${esc(file)}" type="video/mp4">Your browser does not support video playback.</video>`;
+    return `<video controls playsinline preload="metadata" poster="assets/${esc(cover)}"><source src="assets/${esc(file)}" type="video/mp4">Your browser does not support video playback.</video>`;
   }
-  return `<img src="${esc(file)}" alt="${esc(ad.accessibility)}" loading="lazy">`;
+  return `<img src="assets/${esc(file)}" alt="${esc(ad.accessibility)}" loading="lazy">`;
 }
 
 adList.innerHTML = data.ads.map((ad, index) => `
@@ -42,7 +42,7 @@ adList.innerHTML = data.ads.map((ad, index) => `
 
       <div class="mock-ad" aria-label="Example Facebook ad copy combination">
         <div class="mock-ad-head">
-          <img class="mock-avatar" src="sweetgrass-logo-square-cream-1080x1080.png" alt="">
+          <img class="mock-avatar" src="assets/sweetgrass-logo-square-cream-1080x1080.png" alt="">
           <div><strong>The Sweetgrass School</strong><small>Sponsored · Facebook</small></div>
         </div>
         <p class="mock-primary">${esc(ad.primary[0])}</p>

@@ -1,8 +1,8 @@
 {
   "client": "The Sweetgrass School",
   "preparedBy": "Blue Nova Marketing",
-  "status": "Client review — not live",
-  "lastUpdated": "October 9, 2026",
+  "status": "Updated client review — not live",
+  "lastUpdated": "October 11, 2026",
   "destination": "https://thesweetgrassschool.com/registration-enrollment/",
   "campaignName": "Sweetgrass | Enrollment | Facebook | Oct 2026",
   "objective": "Traffic — maximize landing-page views",
@@ -115,38 +115,38 @@
       "hypothesis": "the warm indoor learning environment and direct presenter delivery will communicate the childcare offer most clearly."
     },
     {
-      "title": "4 — Playground Video / Little Moments",
-      "adName": "V2_Playground_Little_Moments",
+      "title": "4 — Infant Care / Choosing Care",
+      "adName": "V2_Infant_Care_Choosing_Care",
       "type": "video",
-      "feedMedia": "sweetgrass-video-b-female-playground-centered-logo-v4-feed-1080x1350.mp4",
-      "verticalMedia": "sweetgrass-video-b-female-playground-centered-logo-v4.mp4",
-      "feedCover": "sweetgrass-video-b-female-playground-cover-1080x1350.png",
-      "verticalCover": "sweetgrass-video-b-female-playground-cover-1080x1920.png",
+      "feedMedia": "sweetgrass-infant-spokesperson-v5-feed-1080x1350.mp4",
+      "verticalMedia": "sweetgrass-infant-spokesperson-v5-story-1080x1920.mp4",
+      "feedCover": "sweetgrass-infant-spokesperson-v5-feed-cover-1080x1350.png",
+      "verticalCover": "sweetgrass-infant-spokesperson-v5-story-cover-1080x1920.png",
       "primary": [
-        "Big discoveries start with little moments. Explore The Sweetgrass School in Mount Pleasant and schedule a tour.",
-        "Building, painting, talking, and making new friends can all become opportunities to learn. Discover age-appropriate programs for children ages 6 weeks–5 years at The Sweetgrass School.",
-        "Every conversation, creative project, and new friendship can help a child grow. The Sweetgrass School serves Mount Pleasant and the surrounding communities. Learn more today.",
-        "From outdoor play to creative discovery, meaningful learning happens all through the day. Explore Sweetgrass programs for children ages 6 weeks–5 years.",
-        "Looking for a place where little moments lead to big discoveries? Watch the video, explore The Sweetgrass School, and schedule a tour in Mount Pleasant."
+        "Choosing care for your baby is a big decision. The Sweetgrass School welcomes children from six weeks through five years with comfort, connection, and playful opportunities to learn and grow. Schedule a tour today.",
+        "Looking for infant care in Mount Pleasant? The Sweetgrass School serves children ages 6 weeks–5 years with caring guidance and age-appropriate opportunities to explore, connect, and grow.",
+        "From a baby’s earliest discoveries through the preschool years, children need comfort, connection, and room to grow. Explore The Sweetgrass School and schedule a tour.",
+        "The Sweetgrass School welcomes families from Mount Pleasant and the surrounding communities. Learn about programs for children ages 6 weeks through five years and plan your visit today.",
+        "Caring relationships and playful discovery can make every stage meaningful. See what The Sweetgrass School offers children from six weeks through five years."
       ],
       "headlines": [
-        "Big Discoveries Start Here",
-        "Little Moments, Meaningful Growth",
-        "A Day Full of Discovery",
-        "Explore Sweetgrass Programs",
-        "Schedule a Mount Pleasant Tour"
+        "Infant Care Starts at Six Weeks",
+        "Schedule a Sweetgrass Tour",
+        "Now Enrolling Ages 6 Weeks–5 Years",
+        "Childcare in Mount Pleasant",
+        "Comfort, Connection, and Growth"
       ],
       "descriptions": [
-        "Serving Mount Pleasant and surrounding communities.",
         "Programs for ages 6 weeks–5 years.",
-        "Building, creating, talking, and growing.",
-        "Discover learning through everyday moments.",
-        "See the video and plan your visit."
+        "Schedule a tour in Mount Pleasant.",
+        "Serving local families and nearby communities.",
+        "Caring guidance from infancy through preschool.",
+        "Explore, connect, learn, and grow."
       ],
-      "accessibility": "A female presenter at a colorful playground describes Sweetgrass programs and invites local families to schedule a tour.",
+      "accessibility": "A full-body female spokesperson stands in a bright infant-care advertising scene while a caregiver and two infants play in the background.",
       "cta": "LEARN_MORE",
-      "utm": "utm_source=facebook&utm_medium=paid_social&utm_campaign=sweetgrass_enrollment_oct2026&utm_content=playground_video",
-      "hypothesis": "the outdoor setting and activity-focused message will provide a materially different visual and emotional angle."
+      "utm": "utm_source=facebook&utm_medium=paid_social&utm_campaign=sweetgrass_enrollment_oct2026&utm_content=infant_care_video",
+      "hypothesis": "infant-focused visuals and a parent-first opening will represent the youngest end of the approved 6-weeks-to-5-years range and reach families evaluating infant care."
     },
     {
       "title": "5 — Music and Movement",
